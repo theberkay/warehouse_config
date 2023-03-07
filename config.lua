@@ -1,3 +1,4 @@
+--Ask us: dc.gg/AAA6Rt6BH2
 Config = {}
 Config.DebugPoly = false -- True or false.
 
